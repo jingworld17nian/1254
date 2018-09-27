@@ -1,8 +1,8 @@
 # 1254
 public class Dog{
-  String breed;
-  int age;
-  String color;
+  paivate String name;
+   int age;
+   paivate String color;
    breed="no";
    age=38;
    color=yellow;
