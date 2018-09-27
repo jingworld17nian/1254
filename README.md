@@ -17,6 +17,7 @@ public class Dog{
   }
  
   void sleeping(){
+  System.out.println("sleeping");
   }
   
 }
